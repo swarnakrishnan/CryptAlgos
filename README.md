@@ -1,5 +1,5 @@
 # CryptAlgos 🤫
-This is a python based Cryptography Algorithms Application.
+Application Used for Encoding and Decoding of your secret text.
 #### Language : Python
 GUI Built Using : Tkinter
 Algorithms Used are:

@@ -2,6 +2,7 @@
 Application Used for Encoding and Decoding of your secret text.
 #### Language : Python
 GUI Built Using : Tkinter
+
 Algorithms Used are:
 * Caesar Cipher
 * Autokey Cipher
